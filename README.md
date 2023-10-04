@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Ben's Pizzeria Data Analysis Portfolio Project in SQL</title>
-</head>
 <body>
   <h1>Ben's Pizzeria Data Analysis Portfolio Project in SQL</h1>
 
@@ -32,16 +29,11 @@
 
   <p>The dashboards provide Ben with valuable insights into his business performance. He can use these insights to make informed decisions about things like pricing, staffing, and inventory management.</p>
 
-  <h2>Keywords</h2>
+  <h2>Conclusions</h2>
 
-  <p>SQL, data analysis, business intelligence, dashboarding, order activity, inventory management, staff management</p>
-
-  <h2>Images</h2>
-
-  <img src="https://example.com/ben-pizzeria-database-diagram.png" alt="Ben's Pizzeria database diagram">
-  <img src="https://example.com/ben-pizzeria-order-activity-dashboard.png" alt="Ben's Pizzeria Order Activity dashboard">
-  <img src="https://example.com/ben-pizzeria-inventory-management-dashboard.png" alt="Ben's Pizzeria Inventory Management dashboard">
-  <img src="https://example.com/ben-pizzeria-staff-management-dashboard.png" alt="Ben's Pizzeria Staff Management dashboard">
+  <p>This data analyst portfolio project demonstrates the ability to design a relational database, develop SQL queries to analyze the data, and create dashboards to visualize the insights. The project can be used as a template for other data analysts working on similar projects.
+  <br>
+  <a href="https://lookerstudio.google.com/reporting/90a15bfe-f92b-4fb3-8c63-874b5ca953ca">Access the Dashboard Report</a></p>
 
 </body>
 </html>
