@@ -1,0 +1,15 @@
+﻿shift_id,day_of_the_week,start_time,end_time
+sh0001,Monday,10:30:00,14:00:00
+sh0002,Monday,18:30:00,23:00:00
+sh0003,Tuesday,10:30:00,14:00:00
+sh0004,Tuesday,18:30:00,23:00:00
+sh0005,Wednesday,10:30:00,14:00:00
+sh0006,Wednesday,18:30:00,23:00:00
+sh0007,Thursday,10:30:00,14:00:00
+sh0008,Thursday,18:30:00,23:00:00
+sh0009,Friday,10:30:00,14:00:00
+sh0010,Friday,18:30:00,23:00:00
+sh0011,Saturday,10:30:00,14:00:00
+sh0012,Saturday,18:30:00,23:00:00
+sh0013,Sunday,10:30:00,14:00:00
+sh0014,Sunday,18:30:00,23:00:00

@@ -1,0 +1,106 @@
+item_name,ing_id,ing_name,ing_weight,ing_price,order_quantity,recipe_quantity,ordered_weight,unit_cost,ingredient_cost
+"Pizza Margherita Regular",ING001,"Pizza Base",2000,4.22,377,50,18850,0.002110,39.773500
+"Pizza Margherita Regular",ING002,"Tomato Sauce",4500,3.89,377,10,3770,0.000864,3.258954
+"Pizza Margherita Regular",ING003,Mozzarella,2500,14.45,377,10,3770,0.005780,21.790600
+"Pizza Margherita Regular",ING004,Oregano,500,5.99,377,2,754,0.011980,9.032920
+"Pizza Margherita Large",ING001,"Pizza Base",2000,4.22,451,60,27060,0.002110,57.096600
+"Pizza Margherita Large",ING002,"Tomato Sauce",4500,3.89,451,15,6765,0.000864,5.847964
+"Pizza Margherita Large",ING003,Mozzarella,2500,14.45,451,13,5863,0.005780,33.888140
+"Pizza Margherita Large",ING004,Oregano,500,5.99,451,3,1353,0.011980,16.208940
+"Pizza Diavola Regular",ING001,"Pizza Base",2000,4.22,511,50,25550,0.002110,53.910500
+"Pizza Diavola Regular",ING003,Mozzarella,2500,14.45,511,6,3066,0.005780,17.721480
+"Pizza Diavola Regular",ING005,"Spicy Salami",3500,37.64,511,5,2555,0.010754,27.477198
+"Pizza Diavola Regular",ING006,"Chilli Pepper",1000,6.49,511,10,5110,0.006490,33.163900
+"Pizza Diavola Large",ING001,"Pizza Base",2000,4.22,451,60,27060,0.002110,57.096600
+"Pizza Diavola Large",ING003,Mozzarella,2500,14.45,451,8,3608,0.005780,20.854240
+"Pizza Diavola Large",ING005,"Spicy Salami",3500,37.64,451,10,4510,0.010754,48.501825
+"Pizza Diavola Large",ING006,"Chilli Pepper",1000,6.49,451,20,9020,0.006490,58.539800
+"Pizza Parmigiana Regular",ING001,"Pizza Base",2000,4.22,424,50,21200,0.002110,44.732000
+"Pizza Parmigiana Regular",ING003,Mozzarella,2500,14.45,424,5,2120,0.005780,12.253600
+"Pizza Parmigiana Regular",ING007,Eggplants,1000,1.90,424,10,4240,0.001900,8.056000
+"Pizza Parmigiana Regular",ING008,"Parmesan Cheese",2500,18.75,424,15,6360,0.007500,47.700000
+"Pizza Parmigiana Large",ING001,"Pizza Base",2000,4.22,437,60,26220,0.002110,55.324200
+"Pizza Parmigiana Large",ING003,Mozzarella,2500,14.45,437,6,2622,0.005780,15.155160
+"Pizza Parmigiana Large",ING007,Eggplants,1000,1.90,437,15,6555,0.001900,12.454500
+"Pizza Parmigiana Large",ING008,"Parmesan Cheese",2500,18.75,437,20,8740,0.007500,65.550000
+"Pizza Quattro Formaggi Regular",ING001,"Pizza Base",2000,4.22,479,50,23950,0.002110,50.534500
+"Pizza Quattro Formaggi Regular",ING003,Mozzarella,2500,14.45,479,6,2874,0.005780,16.611720
+"Pizza Quattro Formaggi Regular",ING008,"Parmesan Cheese",2500,18.75,479,15,7185,0.007500,53.887500
+"Pizza Quattro Formaggi Regular",ING009,Gorgonzola,3500,27.64,479,15,7185,0.007897,56.740965
+"Pizza Quattro Formaggi Regular",ING010,Ricotta,1500,3.99,479,15,7185,0.002660,19.112100
+"Pizza Quattro Formaggi Large",ING001,"Pizza Base",2000,4.22,352,60,21120,0.002110,44.563200
+"Pizza Quattro Formaggi Large",ING003,Mozzarella,2500,14.45,352,8,2816,0.005780,16.276480
+"Pizza Quattro Formaggi Large",ING008,"Parmesan Cheese",2500,18.75,352,20,7040,0.007500,52.800000
+"Pizza Quattro Formaggi Large",ING009,Gorgonzola,3500,27.64,352,20,7040,0.007897,55.595880
+"Pizza Quattro Formaggi Large",ING010,Ricotta,1500,3.99,352,20,7040,0.002660,18.726400
+"Pizza Napolitana Regular",ING001,"Pizza Base",2000,4.22,385,50,19250,0.002110,40.617500
+"Pizza Napolitana Regular",ING003,Mozzarella,2500,14.45,385,4,1540,0.005780,8.901200
+"Pizza Napolitana Regular",ING011,Anchovies,1000,10.99,385,10,3850,0.010990,42.311500
+"Pizza Napolitana Regular",ING012,Capers,1000,4.16,385,5,1925,0.004160,8.008000
+"Pizza Napolitana Large",ING001,"Pizza Base",2000,4.22,450,60,27000,0.002110,56.970000
+"Pizza Napolitana Large",ING003,Mozzarella,2500,14.45,450,5,2250,0.005780,13.005000
+"Pizza Napolitana Large",ING011,Anchovies,1000,10.99,450,15,6750,0.010990,74.182500
+"Pizza Napolitana Large",ING012,Capers,1000,4.16,450,10,4500,0.004160,18.720000
+"Pizza Pepperoni Regular",ING001,"Pizza Base",2000,4.22,347,50,17350,0.002110,36.608500
+"Pizza Pepperoni Regular",ING003,Mozzarella,2500,14.45,347,5,1735,0.005780,10.028300
+"Pizza Pepperoni Regular",ING013,Pepperoni,2500,24.18,347,20,6940,0.009672,67.123680
+"Pizza Pepperoni Large",ING001,"Pizza Base",2000,4.22,283,60,16980,0.002110,35.827800
+"Pizza Pepperoni Large",ING003,Mozzarella,2500,14.45,283,8,2264,0.005780,13.085920
+"Pizza Pepperoni Large",ING013,Pepperoni,2500,24.18,283,25,7075,0.009672,68.429400
+"Pizza Seafood Regular",ING001,"Pizza Base",2000,4.22,421,50,21050,0.002110,44.415500
+"Pizza Seafood Regular",ING003,Mozzarella,2500,14.45,421,8,3368,0.005780,19.467040
+"Pizza Seafood Regular",ING014,Shrimps,1000,8.98,421,10,4210,0.008980,37.805800
+"Pizza Seafood Regular",ING015,Tuna,2000,7.66,421,10,4210,0.003830,16.124300
+"Pizza Seafood Regular",ING016,Calamari,2500,28.77,421,10,4210,0.011508,48.448680
+"Pizza Seafood Large",ING001,"Pizza Base",2000,4.22,370,60,22200,0.002110,46.842000
+"Pizza Seafood Large",ING003,Mozzarella,2500,14.45,370,9,3330,0.005780,19.247400
+"Pizza Seafood Large",ING014,Shrimps,1000,8.98,370,15,5550,0.008980,49.839000
+"Pizza Seafood Large",ING015,Tuna,2000,7.66,370,15,5550,0.003830,21.256500
+"Pizza Seafood Large",ING016,Calamari,2500,28.77,370,15,5550,0.011508,63.869400
+"Pizza Hawaiian Regular",ING001,"Pizza Base",2000,4.22,356,50,17800,0.002110,37.558000
+"Pizza Hawaiian Regular",ING003,Mozzarella,2500,14.45,356,8,2848,0.005780,16.461440
+"Pizza Hawaiian Regular",ING017,Ham,5000,32.45,356,10,3560,0.006490,23.104400
+"Pizza Hawaiian Regular",ING018,Pineapple,3000,6.23,356,5,1780,0.002077,3.696465
+"Pizza Hawaiian Large",ING001,"Pizza Base",2000,4.22,434,60,26040,0.002110,54.944400
+"Pizza Hawaiian Large",ING003,Mozzarella,2500,14.45,434,9,3906,0.005780,22.576680
+"Pizza Hawaiian Large",ING017,Ham,5000,32.45,434,15,6510,0.006490,42.249900
+"Pizza Hawaiian Large",ING018,Pineapple,3000,6.23,434,10,4340,0.002077,9.012730
+"Garlic Bread",ING019,Clabatta,2000,52.10,432,5,2160,0.026050,56.268000
+"Garlic Bread",ING020,Bread,3000,69.83,432,15,6480,0.023277,150.832796
+"Garlic Bread",ING021,"Garlic butter",1250,34.45,432,3,1296,0.027560,35.717760
+"Garlic Bread",ING022,Parsley,2500,5.25,432,5,2160,0.002100,4.536000
+"Chicken Wings",ING023,Chicken,7500,13.72,320,40,12800,0.001829,23.415462
+Breadsticks,ING020,Bread,3000,69.83,361,30,10830,0.023277,252.086293
+"Caesar Salad",ING023,Chicken,7500,13.72,415,20,8300,0.001829,15.183464
+"Caesar Salad",ING024,Croutons,1250,17.98,415,5,2075,0.014384,29.846800
+"Caesar Salad",ING025,Lettuce,5000,5.50,415,5,2075,0.001100,2.282500
+"Caesar Salad",ING026,"Caesar Dressing",7500,12.99,415,5,2075,0.001732,3.593900
+"Chocolate Ice Cream",ING027,Milk,100,11.25,414,15,6210,0.112500,698.625000
+"Chocolate Ice Cream",ING029,Chocolate,4000,25.99,414,5,2070,0.006498,13.449825
+"Vanilla Ice Cream",ING027,Milk,100,11.25,387,15,5805,0.112500,653.062500
+"Vanilla Ice Cream",ING028,Vanilla,4000,24.99,387,5,1935,0.006248,12.088913
+"Strawberry Ice Cream",ING027,Milk,100,11.25,419,15,6285,0.112500,707.062500
+"Strawberry Ice Cream",ING030,Strawberry,4000,20.99,419,5,2095,0.005248,10.993513
+"Pistachio Ice Crearn",ING027,Milk,100,11.25,461,15,6915,0.112500,777.937500
+"Pistachio Ice Crearn",ING031,Pistachio,4000,30.50,461,5,2305,0.007625,17.575625
+"Chocolate Brownie",ING020,Bread,3000,69.83,409,45,18405,0.023277,428.407038
+"Chocolate Brownie",ING029,Chocolate,4000,25.99,409,10,4090,0.006498,26.574775
+"Banoffee Pie",ING032,Bananas,5000,9.75,425,10,4250,0.001950,8.287500
+"Banoffee Pie",ING033,Cream,3500,3.45,425,20,8500,0.000986,8.378569
+"Banoffee Pie",ING034,"Caramel Sauce",2000,4.75,425,5,2125,0.002375,5.046875
+"Banoffee Pie",ING035,"Biscuit Base",5000,6.60,425,25,10625,0.001320,14.025000
+"Fruit salad",ING011,Anchovies,1000,10.99,463,10,4630,0.010990,50.883700
+"Fruit salad",ING018,Pineapple,3000,6.23,463,10,4630,0.002077,9.614964
+"Fruit salad",ING036,Papaya,5000,6.77,463,15,6945,0.001354,9.403530
+"Coca Cola 33cl",ING039,"Coca Cola Regular",10000,3.60,385,10,3850,0.000360,1.386000
+"Coca Cola 1.5l",ING039,"Coca Cola Regular",10000,3.60,440,50,22000,0.000360,7.920000
+"Diet Coke 33cl",ING040,"Coca Cola Diet",10000,3.80,483,10,4830,0.000380,1.835400
+"Diet Coke 1.5l",ING040,"Coca Cola Diet",10000,3.80,364,50,18200,0.000380,6.916000
+"7 Up 33cl",ING041,"7 Up Regular",7500,3.55,316,10,3160,0.000473,1.495732
+"7 Up 1.5l",ING041,"7 Up Regular",7500,3.55,410,50,20500,0.000473,9.703327
+"Fanta 33cl",ING042,"Fanta Regular",7500,3.55,352,10,3520,0.000473,1.666132
+"Fanta 1.5l",ING042,"Fanta Regular",7500,3.55,471,50,23550,0.000473,11.146992
+"Sparkling Water 33cl",ING037,"San Pelegrino",7500,2.35,545,6,3270,0.000313,1.024599
+"Sparkling Water 33cl",ING038,Perrier,7500,2.87,545,6,3270,0.000383,1.251318
+"Sparkling Water 1.5l",ING037,"San Pelegrino",7500,2.35,486,20,9720,0.000313,3.045597
+"Sparkling Water 1.5l",ING038,Perrier,7500,2.87,486,20,9720,0.000383,3.719514

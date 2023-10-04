@@ -1,0 +1,38 @@
+﻿item_id ,item_sku ,item_name,item_category ,item_size ,item_price
+it001,PIZZ-MARG-R,Pizza Margherita Regular,Pizza,Regular,12
+it002,PIZZ-MARG-L,Pizza Margherita Large,Pizza,Large,14
+it003,PIZZ-DIAV-R,Pizza Diavola Regular,Pizza,Regular,16
+it004,PIZZ-DIAV-L,Pizza Diavola Large,Pizza,Large,19
+it005,PIZZ-PARM-R,Pizza Parmigiana Regular,Pizza,Regular,15
+it006,PIZZ-PARM-L,Pizza Parmigiana Large,Pizza,Large,18
+it007,PIZZ-QUAT-R,Pizza Quattro Formaggi Regular,Pizza,Regular,16
+it008,PIZZ-QUAT-L,Pizza Quattro Formaggi Large,Pizza,Large,19
+it009,PIZZ-NAPO-R,Pizza Napolitana Regular,Pizza,Regular,16
+it010,PIZZ-NAPO-L,Pizza Napolitana Large,Pizza,Large,18
+it011,PIZZ-PEPP-R,Pizza Pepperoni Regular,Pizza,Regular,15
+it012,PIZZ-PEPP-L,Pizza Pepperoni Large,Pizza,Large,17
+it013,PIZZ-SEAF-R,Pizza Seafood Regular,Pizza,Regular,17
+it014,PIZZ-SEAF-L,Pizza Seafood Large,Pizza,Large,20
+it015,PIZZ-HAWA-R,Pizza Hawaiian Regular,Pizza,Regular,15
+it016,PIZZ-HAWA-L,Pizza Hawaiian Large,Pizza,Large,17
+it017,SIDE-GARL-R,Garlic Bread,Side,Regular,6
+it018,SIDE-CHIC-R,Chicken Wings,Side,Regular,7
+it019,SIDE-BREA-R,Breadsticks,Side,Regular,5
+it020,SIDE-CAES-R,Caesar Salad,Side,Regular,7
+it021,DESS-ICE-CHOC,Chocolate Ice Cream,Dessert,Regular,6
+it022,DESS-ICE-VANI,Vanilla Ice Cream,Dessert,Regular,6
+it023,DESS-ICE-STRA,Strawberry Ice Cream,Dessert,Regular,6
+it024,DESS-ICE-PIST,Pistachio Ice Crearn,Dessert,Regular,6
+it025,DESS-CHOC-BROW,Chocolate Brownie,Dessert,Regular,5
+it026,DESS-BANO-PIE,Banoffee Pie,Dessert,Regular,7
+it027,DESS-FRUI-SALA,Fruit salad,Dessert,Regular,5
+it028,BEVA-CC-REG33,Coca Cola 33cl,Beverage,33cl,3
+it029,BEVA-CC-REG1500,Coca Cola 1.5l,Beverage,1.5l,6
+it030,BEVA-CC-DIE33,Diet Coke 33cl,Beverage,33cl,3
+it031,BEVA-CC-DIE1500,Diet Coke 1.5l,Beverage,1.5l,6
+it032,BEVA-7U-REG33,7 Up 33cl,Beverage,33cl,3
+it033,BEVA-7U-REG1500,7 Up 1.5l,Beverage,1.5l,6
+it034,BEVA-FANT-REG33,Fanta 33cl,Beverage,33cl,3
+it035,BEVA-FANT-REG1500,Fanta 1.5l,Beverage,1.5l,6
+it036,BEVA-SW-REG33,Sparkling Water 33cl,Beverage,33cl,2
+it037,BEVA-SW-REG1500,Sparkling Water 1.5l,Beverage,1.5l,4

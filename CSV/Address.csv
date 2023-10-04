@@ -1,0 +1,301 @@
+﻿address_id ,delivery_address1 ,delivery_address2 ,delivery_city ,delivery_zipcode 
+1,833 Briar Crest Court,,Staten Island,0010SI
+2,17680 Susan Junction,,Brooklyn,0005B
+3,92160 Weeping Birch Road,,Queens,0007Q
+4,3168 Clemons Road,,Queens,0007Q
+5,03250 Miller Park,,Queens,0007Q
+6,87050 Valley Edge Plaza,,Manhattan,0001M
+7,9338 Rutledge Drive,,Bronx,0004B
+8,73530 Brickson Park Lane,,Manhattan,0001M
+9,68 Welch Avenue,,Manhattan,0001M
+10,73941 Arizona Plaza,,Manhattan,0001M
+11,415 Swallow Place,Apt 964,Brooklyn,0005B
+12,4 Kingsford Court,,Staten Island,0010SI
+13,0946 Pleasure Center,,Bronx,0004B
+14,176 Evergreen Junction,,Brooklyn,0005B
+15,5 Morning Circle,Room 1885,Manhattan,0001M
+16,1837 Dexter Junction,,Bronx,0004B
+17,7809 Goodland Crossing,PO Box 48071,Brooklyn,0005B
+18,909 Moulton Drive,Apt 897,Bronx,0004B
+19,1 Anhalt Circle,,Queens,0007Q
+20,663 Miller Circle,Suite 96,Bronx,0004B
+21,73880 Vahlen Circle,,Brooklyn,0005B
+22,5415 Spohn Junction,,Queens,0007Q
+23,6241 Artisan Center,Apt 424,Queens,0007Q
+24,4458 Twin Pines Crossing,PO Box 93258,Brooklyn,0005B
+25,3 Armistice Road,,Staten Island,0010SI
+26,18725 Victoria Crossing,,Queens,0007Q
+27,5 Schurz Circle,,Brooklyn,0005B
+28,99062 Oak Place,,Staten Island,0010SI
+29,59 Stoughton Plaza,,Queens,0007Q
+30,79992 Bultman Pass,,Queens,0007Q
+31,4 Stang Pass,,Queens,0007Q
+32,687 Burrows Way,,Manhattan,0001M
+33,77 Muir Junction,,Brooklyn,0005B
+34,6 Arkansas Park,7th Floor,Staten Island,0010SI
+35,01 Everett Park,PO Box 75095,Bronx,0004B
+36,2089 Cascade Way,,Brooklyn,0005B
+37,66 1st Point,17th Floor,Brooklyn,0005B
+38,1 Pierstorff Street,Apt 437,Manhattan,0001M
+39,64 Fieldstone Way,,Brooklyn,0005B
+40,038 Loftsgordon Way,,Queens,0007Q
+41,89058 Cambridge Court,,Queens,0007Q
+42,1668 Emmet Park,,Manhattan,0001M
+43,10382 Pankratz Way,16th Floor,Staten Island,0010SI
+44,683 Macpherson Road,,Manhattan,0001M
+45,02148 Lakeland Parkway,,Bronx,0004B
+46,78 Amoth Circle,,Bronx,0004B
+47,3951 Hintze Point,,Queens,0007Q
+48,226 Cardinal Lane,,Queens,0007Q
+49,70504 Cody Drive,,Manhattan,0001M
+50,5170 Armistice Hill,Room 589,Staten Island,0010SI
+51,819 Hovde Lane,,Manhattan,0001M
+52,847 Blackbird Road,,Brooklyn,0005B
+53,226 Scott Center,,Brooklyn,0005B
+54,26555 Eastlawn Pass,,Bronx,0004B
+55,258 Redwing Road,,Manhattan,0001M
+56,31 Buhler Pass,,Queens,0007Q
+57,83 Sheridan Alley,,Staten Island,0010SI
+58,87526 3rd Place,,Brooklyn,0005B
+59,98148 Brown Pass,,Bronx,0004B
+60,410 Del Sol Trail,PO Box 1985,Bronx,0004B
+61,7530 Elka Place,,Brooklyn,0005B
+62,589 Northfield Junction,Apt 1439,Bronx,0004B
+63,30657 High Crossing Park,,Staten Island,0010SI
+64,3 Tennyson Alley,,Manhattan,0001M
+65,73 Longview Point,,Bronx,0004B
+66,392 Sherman Place,,Manhattan,0001M
+67,96822 Westerfield Junction,Apt 1302,Brooklyn,0005B
+68,4225 Ruskin Circle,5th Floor,Brooklyn,0005B
+69,147 Arizona Plaza,,Staten Island,0010SI
+70,62015 Claremont Pass,Room 818,Bronx,0004B
+71,1 Schurz Place,,Manhattan,0001M
+72,172 Sheridan Place,,Brooklyn,0005B
+73,70644 Cardinal Crossing,,Queens,0007Q
+74,21 3rd Crossing,Suite 31,Bronx,0004B
+75,2368 Menomonie Point,Room 910,Brooklyn,0005B
+76,949 Reinke Crossing,,Manhattan,0001M
+77,178 Morning Place,Apt 1530,Bronx,0004B
+78,52445 Grover Parkway,PO Box 76308,Brooklyn,0005B
+79,1812 Lakeland Avenue,,Staten Island,0010SI
+80,730 Mallard Point,,Staten Island,0010SI
+81,7110 Sycamore Center,,Queens,0007Q
+82,8 Leroy Court,,Brooklyn,0005B
+83,13654 Sutherland Plaza,Suite 38,Bronx,0004B
+84,2441 Heath Avenue,,Staten Island,0010SI
+85,28039 Sloan Drive,,Manhattan,0001M
+86,6 Bluejay Crossing,,Manhattan,0001M
+87,729 Hagan Trail,20th Floor,Brooklyn,0005B
+88,75909 Lien Circle,,Staten Island,0010SI
+89,9638 Buell Court,Room 1764,Staten Island,0010SI
+90,4982 7th Hill,Suite 70,Bronx,0004B
+91,56 Anhalt Parkway,,Staten Island,0010SI
+92,363 Valley Edge Trail,PO Box 42003,Brooklyn,0005B
+93,44372 Redwing Avenue,,Queens,0007Q
+94,1672 South Center,,Manhattan,0001M
+95,1771 Duke Parkway,Suite 30,Staten Island,0010SI
+96,59651 Hovde Court,,Bronx,0004B
+97,9110 Golden Leaf Alley,,Brooklyn,0005B
+98,847 Kenwood Parkway,,Manhattan,0001M
+99,8299 Buena Vista Court,,Staten Island,0010SI
+100,599 Melrose Lane,,Brooklyn,0005B
+101,0 Roxbury Junction,,Bronx,0004B
+102,1 Lakeland Pass,,Bronx,0004B
+103,7848 Arrowood Place,,Brooklyn,0005B
+104,0 Dayton Circle,,Brooklyn,0005B
+105,969 Almo Park,,Brooklyn,0005B
+106,12 Straubel Street,,Bronx,0004B
+107,5977 Chive Parkway,,Staten Island,0010SI
+108,32738 Duke Avenue,,Staten Island,0010SI
+109,896 Duke Junction,8th Floor,Staten Island,0010SI
+110,982 Maryland Circle,PO Box 2873,Manhattan,0001M
+111,307 Union Street,,Bronx,0004B
+112,9 Elmside Center,,Bronx,0004B
+113,07263 Novick Alley,,Staten Island,0010SI
+114,13 Fulton Avenue,Room 1496,Manhattan,0001M
+115,35211 Bultman Hill,Room 1605,Staten Island,0010SI
+116,99 Continental Pass,,Bronx,0004B
+117,6413 Autumn Leaf Park,PO Box 63036,Staten Island,0010SI
+118,084 Rusk Center,,Staten Island,0010SI
+119,43 Larry Hill,,Manhattan,0001M
+120,013 Steensland Crossing,,Staten Island,0010SI
+121,71961 Mendota Alley,,Manhattan,0001M
+122,6283 Thierer Drive,Suite 64,Manhattan,0001M
+123,1 Almo Road,,Brooklyn,0005B
+124,36 Shasta Center,,Bronx,0004B
+125,02029 Johnson Trail,,Staten Island,0010SI
+126,07759 Cambridge Plaza,Room 1499,Manhattan,0001M
+127,88 Hanover Drive,,Bronx,0004B
+128,1 Lighthouse Bay Plaza,,Bronx,0004B
+129,95505 Oakridge Alley,,Brooklyn,0005B
+130,130 Dorton Plaza,,Brooklyn,0005B
+131,05182 Wayridge Place,,Brooklyn,0005B
+132,2729 Fairview Crossing,PO Box 92087,Bronx,0004B
+133,92953 Elka Way,,Staten Island,0010SI
+134,4912 Vera Lane,,Bronx,0004B
+135,093 Fordem Plaza,,Manhattan,0001M
+136,23 Monica Hill,,Bronx,0004B
+137,8644 Roxbury Lane,Apt 470,Staten Island,0010SI
+138,95971 Hayes Hill,,Bronx,0004B
+139,6 Hollow Ridge Junction,,Queens,0007Q
+140,172 Acker Park,Suite 59,Staten Island,0010SI
+141,3313 Monument Point,,Brooklyn,0005B
+142,9 Lunder Place,,Staten Island,0010SI
+143,501 Lawn Place,,Queens,0007Q
+144,6014 Petterle Center,,Staten Island,0010SI
+145,08 Kedzie Lane,,Manhattan,0001M
+146,43 Red Cloud Crossing,,Staten Island,0010SI
+147,86 Jay Alley,,Queens,0007Q
+148,5093 Westridge Way,,Brooklyn,0005B
+149,7 Gale Pass,,Manhattan,0001M
+150,26 Daystar Avenue,,Queens,0007Q
+151,67019 Mendota Crossing,,Brooklyn,0005B
+152,35 Banding Park,Suite 20,Queens,0007Q
+153,88603 Katie Park,,Brooklyn,0005B
+154,14213 Luster Hill,,Manhattan,0001M
+155,50 Barnett Hill,6th Floor,Brooklyn,0005B
+156,97 Lerdahl Place,,Manhattan,0001M
+157,34 Sunbrook Pass,,Staten Island,0010SI
+158,6 Summerview Center,,Bronx,0004B
+159,3243 Tomscot Pass,,Bronx,0004B
+160,0 Upham Point,,Manhattan,0001M
+161,58 Washington Pass,,Staten Island,0010SI
+162,3 Erie Way,,Staten Island,0010SI
+163,717 Rigney Road,,Bronx,0004B
+164,64950 Tennyson Pass,,Queens,0007Q
+165,8 Kropf Crossing,,Manhattan,0001M
+166,98931 Glacier Hill Place,,Staten Island,0010SI
+167,819 Schurz Center,,Bronx,0004B
+168,7287 Fuller Place,,Manhattan,0001M
+169,2 Washington Avenue,,Staten Island,0010SI
+170,57210 Northfield Court,,Queens,0007Q
+171,85 Huxley Crossing,,Queens,0007Q
+172,76667 Lunder Trail,,Queens,0007Q
+173,3 Bay Junction,Suite 42,Staten Island,0010SI
+174,0 Grayhawk Hill,,Bronx,0004B
+175,97 Hermina Point,,Manhattan,0001M
+176,67575 Reindahl Crossing,,Queens,0007Q
+177,8163 Hoard Terrace,,Manhattan,0001M
+178,9 Maple Wood Crossing,,Manhattan,0001M
+179,81360 Northwestern Circle,,Brooklyn,0005B
+180,980 Wayridge Way,,Queens,0007Q
+181,9 Badeau Park,Room 1601,Staten Island,0010SI
+182,91 Bowman Plaza,,Staten Island,0010SI
+183,8345 Portage Street,,Staten Island,0010SI
+184,92 Washington Lane,,Bronx,0004B
+185,066 Ronald Regan Trail,2nd Floor,Brooklyn,0005B
+186,7 Del Mar Parkway,,Bronx,0004B
+187,83 Oriole Road,Room 1567,Queens,0007Q
+188,3869 Sutherland Way,Suite 16,Queens,0007Q
+189,737 5th Drive,,Queens,0007Q
+190,8 Dahle Hill,,Manhattan,0001M
+191,28172 Graedel Drive,,Staten Island,0010SI
+192,28 Sage Drive,,Bronx,0004B
+193,13378 Hoepker Point,,Brooklyn,0005B
+194,2144 Lyons Lane,Room 165,Manhattan,0001M
+195,597 Straubel Plaza,,Manhattan,0001M
+196,3866 Green Court,,Manhattan,0001M
+197,1 Kipling Crossing,,Staten Island,0010SI
+198,31934 Ilene Road,,Manhattan,0001M
+199,96245 7th Parkway,,Manhattan,0001M
+200,477 Lakeland Circle,,Staten Island,0010SI
+201,71388 Ridgeview Point,,Brooklyn,0005B
+202,473 Colorado Junction,,Staten Island,0010SI
+203,08899 Crowley Way,,Manhattan,0001M
+204,7407 Service Court,,Manhattan,0001M
+205,33 Boyd Drive,,Manhattan,0001M
+206,08 Mifflin Road,,Bronx,0004B
+207,5 Green Trail,,Queens,0007Q
+208,689 School Avenue,,Brooklyn,0005B
+209,786 Haas Plaza,,Brooklyn,0005B
+210,7 Prairieview Alley,,Bronx,0004B
+211,752 Towne Alley,,Brooklyn,0005B
+212,1901 Cardinal Court,,Manhattan,0001M
+213,80102 Express Center,PO Box 14540,Bronx,0004B
+214,67 West Way,,Bronx,0004B
+215,3980 Carberry Hill,,Staten Island,0010SI
+216,16884 Corry Hill,,Bronx,0004B
+217,0579 Pepper Wood Avenue,,Staten Island,0010SI
+218,1 Main Avenue,,Brooklyn,0005B
+219,99 Dayton Place,,Brooklyn,0005B
+220,35722 Russell Street,,Staten Island,0010SI
+221,0970 Valley Edge Circle,17th Floor,Queens,0007Q
+222,6633 Miller Street,Suite 7,Manhattan,0001M
+223,259 Arrowood Avenue,,Manhattan,0001M
+224,807 Fulton Hill,,Bronx,0004B
+225,2018 Holmberg Point,,Bronx,0004B
+226,0 Arapahoe Pass,,Brooklyn,0005B
+227,21 Darwin Court,Room 1351,Staten Island,0010SI
+228,1137 Ridge Oak Crossing,,Staten Island,0010SI
+229,75539 Old Shore Center,,Queens,0007Q
+230,406 Kropf Circle,,Staten Island,0010SI
+231,973 Anthes Point,,Queens,0007Q
+232,9 Park Meadow Pass,Suite 8,Staten Island,0010SI
+233,76 Killdeer Point,,Queens,0007Q
+234,45696 Pearson Road,,Staten Island,0010SI
+235,4 New Castle Hill,,Queens,0007Q
+236,3676 Southridge Avenue,,Queens,0007Q
+237,4 Maple Wood Street,,Manhattan,0001M
+238,431 Norway Maple Pass,,Staten Island,0010SI
+239,500 Bayside Alley,Suite 11,Bronx,0004B
+240,7 Forest Run Way,,Staten Island,0010SI
+241,695 Sunbrook Avenue,,Staten Island,0010SI
+242,2852 Brentwood Parkway,,Bronx,0004B
+243,69 Glendale Drive,,Manhattan,0001M
+244,4 Kropf Trail,9th Floor,Brooklyn,0005B
+245,8394 Dakota Crossing,,Queens,0007Q
+246,04149 Hazelcrest Parkway,Room 981,Bronx,0004B
+247,2 Northport Road,15th Floor,Manhattan,0001M
+248,0566 Bashford Street,Apt 1112,Brooklyn,0005B
+249,693 Bellgrove Crossing,,Brooklyn,0005B
+250,120 Knutson Way,11th Floor,Brooklyn,0005B
+251,9 Utah Court,Apt 238,Queens,0007Q
+252,73 Glacier Hill Park,,Queens,0007Q
+253,863 Tennyson Parkway,,Brooklyn,0005B
+254,122 Forest Run Alley,,Queens,0007Q
+255,3 Grasskamp Terrace,,Staten Island,0010SI
+256,1467 Kedzie Trail,,Staten Island,0010SI
+257,9270 Sunnyside Crossing,,Brooklyn,0005B
+258,72779 Sloan Way,Apt 466,Manhattan,0001M
+259,30 Fremont Pass,,Queens,0007Q
+260,71928 Bay Junction,,Staten Island,0010SI
+261,42398 La Follette Point,,Brooklyn,0005B
+262,6 Cambridge Parkway,,Bronx,0004B
+263,989 Onsgard Hill,Apt 485,Staten Island,0010SI
+264,513 Tennessee Circle,,Bronx,0004B
+265,9 Duke Way,,Queens,0007Q
+266,29479 Prentice Point,,Manhattan,0001M
+267,261 Norway Maple Drive,Suite 7,Manhattan,0001M
+268,83644 Old Gate Hill,,Manhattan,0001M
+269,61054 Monument Crossing,,Manhattan,0001M
+270,9097 Memorial Avenue,Apt 779,Manhattan,0001M
+271,77 Michigan Parkway,,Queens,0007Q
+272,774 Hagan Drive,,Bronx,0004B
+273,93 Sugar Terrace,Suite 2,Queens,0007Q
+274,8 2nd Center,PO Box 1128,Staten Island,0010SI
+275,3480 Anthes Pass,,Brooklyn,0005B
+276,8085 Ridgeway Trail,,Brooklyn,0005B
+277,87791 Eagle Crest Terrace,,Brooklyn,0005B
+278,25 Saint Paul Hill,,Staten Island,0010SI
+279,00 La Follette Place,,Staten Island,0010SI
+280,91858 Killdeer Court,PO Box 72892,Brooklyn,0005B
+281,5 Victoria Drive,,Queens,0007Q
+282,95591 Rusk Circle,,Brooklyn,0005B
+283,893 Dryden Circle,,Manhattan,0001M
+284,83325 Eagan Place,,Manhattan,0001M
+285,15141 Mitchell Avenue,,Staten Island,0010SI
+286,14 Esch Plaza,,Bronx,0004B
+287,03 Northview Court,9th Floor,Manhattan,0001M
+288,387 Sage Avenue,,Manhattan,0001M
+289,708 Marcy Point,Room 1054,Manhattan,0001M
+290,0844 Fieldstone Point,Apt 86,Manhattan,0001M
+291,31 Ridge Oak Hill,PO Box 65176,Brooklyn,0005B
+292,30096 School Center,,Manhattan,0001M
+293,44 Bonner Park,,Queens,0007Q
+294,1496 Boyd Road,,Staten Island,0010SI
+295,5267 Melvin Pass,,Brooklyn,0005B
+296,1 Commercial Terrace,Apt 208,Queens,0007Q
+297,42 7th Parkway,,Queens,0007Q
+298,33564 Algoma Way,18th Floor,Manhattan,0001M
+299,4232 Summerview Avenue,,Manhattan,0001M
+300,86 Sunbrook Park,,Bronx,0004B

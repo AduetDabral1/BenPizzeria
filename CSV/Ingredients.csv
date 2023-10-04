@@ -1,0 +1,43 @@
+﻿ing_id ,ing_name,ing_weight ,ing_measurements ,ing_price
+ING001,Pizza Base,2000,grams,4.22
+ING002,Tomato Sauce,4500,grams,3.89
+ING003,Mozzarella,2500,grams,14.45
+ING004,Oregano,500,grams,5.99
+ING005,Spicy Salami,3500,grams,37.64
+ING006,Chilli Pepper,1000,grams,6.49
+ING007,Eggplants,1000,grams,1.9
+ING008,Parmesan Cheese,2500,grams,18.75
+ING009,Gorgonzola,3500,grams,27.64
+ING010,Ricotta,1500,grams,3.99
+ING011,Anchovies,1000,grams,10.99
+ING012,Capers,1000,grams,4.16
+ING013,Pepperoni,2500,grams,24.18
+ING014,Shrimps,1000,grams,8.98
+ING015,Tuna,2000,grams,7.66
+ING016,Calamari,2500,grams,28.77
+ING017,Ham,5000,grams,32.45
+ING018,Pineapple,3000,grams,6.23
+ING019,Clabatta,2000,grams,52.1
+ING020,Bread,3000,grams,69.83
+ING021,Garlic butter,1250,grams,34.45
+ING022,Parsley,2500,grams,5.25
+ING023,Chicken,7500,grams,13.72
+ING024,Croutons,1250,grams,17.98
+ING025,Lettuce,5000,grams,5.5
+ING026,Caesar Dressing,7500,grams,12.99
+ING027,Milk,100,litres,11.25
+ING028,Vanilla,4000,grams,24.99
+ING029,Chocolate,4000,grams,25.99
+ING030,Strawberry,4000,grams,20.99
+ING031,Pistachio,4000,grams,30.5
+ING032,Bananas,5000,grams,9.75
+ING033,Cream,3500,grams,3.45
+ING034,Caramel Sauce,2000,grams,4.75
+ING035,Biscuit Base,5000,grams,6.6
+ING036,Papaya,5000,grams,6.77
+ING037,San Pelegrino,7500,mililitres,2.35
+ING038,Perrier,7500,mililitres,2.87
+ING039,Coca Cola Regular,10000,mililitres,3.6
+ING040,Coca Cola Diet,10000,mililitres,3.8
+ING041,7 Up Regular,7500,mililitres,3.55
+ING042,Fanta Regular,7500,mililitres,3.55
